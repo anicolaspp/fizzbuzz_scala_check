@@ -7,4 +7,4 @@ object FizzBuzz {
     case (_, 0) =>  "Buzz"
     case (_, _) =>  input.toString
   }
-}
+} 
