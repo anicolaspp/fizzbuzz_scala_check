@@ -1,0 +1,8 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzSpecifications, org.scalacheck.ScalaCheckFramework$$anon$3@163505ca, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzSpecifications-2, org.scalacheck.ScalaCheckFramework$$anon$3@163505ca, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzSpecifications-0, org.scalacheck.ScalaCheckFramework$$anon$3@163505ca, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzSpecifications-1, org.scalacheck.ScalaCheckFramework$$anon$3@163505ca, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FizzBuzzSpecifications-3, org.scalacheck.ScalaCheckFramework$$anon$3@163505ca, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 4, Failed 0, Errors 0, Passed 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FizzBuzzSpecifications[0m
