@@ -1,2 +1,17 @@
 *.class
 *.log
+target/streams/$global/updateClassifiers/$global/streams
+project/project/
+project/target/config-classes/$0837e7f74ce7d24c8de8.cache
+project/target/config-classes/$5648087fa2ec8a44dd3d.cache
+project/target/config-classes/$5f3e25092c49f284384d.cache
+project/target/config-classes/$a6c96e345e1ddf397104.cache
+project/target/config-classes/$b49b65f0582aa85fabf1.cache
+project/target/streams/compile/compileIncSetup/
+target/scala-2.12/
+target/streams/$global/$global/
+target/streams/$global/dependencyPositions/
+target/streams/$global/update/
+target/streams/compile/
+target/streams/runtime/
+target/streams/test/
