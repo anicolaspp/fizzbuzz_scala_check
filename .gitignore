@@ -15,3 +15,4 @@ target/streams/$global/update/
 target/streams/compile/
 target/streams/runtime/
 target/streams/test/
+.idea
